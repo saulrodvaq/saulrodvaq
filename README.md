@@ -1,3 +1,3 @@
-[![](https://github-readme-stats.vercel.app/api?username=saulrodvaq&show_icons=true&icon_color=FFFFFF&bg_color=030303)
-)](https://github.com/saulrodvaq/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=saulrodvaq&show_icons=true&icon_color=FFFFFF&bg_color=030303) 
+)](https://github.com/saulrodvaq/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulrodvaq&layout=donut)](https://github.com/saulrodvaq/github-readme-stats)
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saulrodvaq/saulrodvaq/output/github-contribution-grid-snake-dark.svg" />
